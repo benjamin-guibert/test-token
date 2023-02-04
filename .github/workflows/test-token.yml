@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  github-secret:
+  github:
     name: Test GitHub Token
     runs-on: ubuntu-latest
     steps:
