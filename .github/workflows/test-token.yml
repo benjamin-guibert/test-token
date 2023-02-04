@@ -5,7 +5,7 @@ on:
 
 jobs:
   github-secret:
-    name: Test GitHub Token secret
+    name: Test GitHub Token
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the repository
