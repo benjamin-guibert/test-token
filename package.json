@@ -1,7 +1,7 @@
 {
   "name": "@benjamin-guibert/test-token",
   "devDependencies": {
-    "@benjamin-guibert/configs": "^0.1.1",
+    "@benjamin-guibert/configs": "^0.1.1"
   },
   "packageManager": "yarn@3.3.1"
 }
